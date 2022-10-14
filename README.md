@@ -1,4 +1,4 @@
-# i2c00-rtc.dtbo
+# i2c0-rtc.dtbo
 RTC overlay for second i2c bus on Raspberry Pi
 
 RTCs supported:
